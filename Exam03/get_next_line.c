@@ -1,11 +1,6 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-#ifndef BUFFER_SIZE
-#define BUFFER_SIZE 1
-#endif
-
-
 int ft_len(char *s)
 {
 	int i = 0;
