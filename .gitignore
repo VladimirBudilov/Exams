@@ -55,3 +55,5 @@ dkms.conf
 .vscode
 .DS_Store
 42-EXAM
+cmake-build-debug
+CMakeLists.txt
